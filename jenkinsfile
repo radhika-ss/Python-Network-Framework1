@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/YOUR_USERNAME/Python-NetworkAutomation.git'
+                git 'https://github.com/radhika-ss/Python-Network-Framework1.git'
             }
         }
 
