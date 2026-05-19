@@ -24,7 +24,7 @@ pipeline {
 
             steps {
 
-                bat 'pytest -n auto --html=report.html'
+                bat 'python -m pytest -n auto --html=report.html  --self-contained-html'
             }
         }
 
