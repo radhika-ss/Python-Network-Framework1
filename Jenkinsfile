@@ -24,7 +24,13 @@ pipeline {
 
             steps {
 
-                bat 'python -m pytest -v'
+                bat 'pytest -n auto --html=report.html'
+            }
+        }
+
+        stage('Publish Report') {
+            steps {
+                archiveArtifacts artifacts: 'report.html'
             }
         }
 
