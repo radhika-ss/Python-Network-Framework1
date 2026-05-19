@@ -1,0 +1,21 @@
+2026-05-18 21:38:18,278 - INFO - ===== STARTING OSPF TEST
+2026-05-18 21:45:48,775 - INFO - ===== STARTING OSPF TEST
+2026-05-18 21:45:48,776 - INFO - Parsing OSPF output
+2026-05-18 21:45:48,777 - INFO - Parsed neighbors: [{'neighbor': '10.1.1.2', 'state': 'FULL'}, {'neighbor': '10.1.1.3', 'state': 'FULL'}]
+2026-05-18 21:45:48,778 - INFO - Validation Result: True
+2026-05-18 21:45:48,778 - INFO - ===== OSPF TEST PASSED =====
+2026-05-18 21:50:22,487 - INFO - ===== STARTING OSPF TEST
+2026-05-18 21:50:22,487 - INFO - Parsing OSPF output
+2026-05-18 21:50:22,487 - INFO - Parsed neighbors: [{'neighbor': '10.1.1.2', 'state': 'FULL'}, {'neighbor': '10.1.1.3', 'state': 'FULL'}]
+2026-05-18 21:50:22,490 - INFO - Validation Result: True
+2026-05-18 21:50:22,490 - INFO - ===== OSPF TEST PASSED =====
+2026-05-18 21:54:48,770 - INFO - OSPF_TEST - ===== STARTING OSPF TEST
+2026-05-18 21:54:48,771 - INFO - OSPF_TEST - Parsing OSPF output
+2026-05-18 21:54:48,773 - INFO - OSPF_TEST - Parsed neighbors: [{'neighbor': '10.1.1.2', 'state': 'FULL'}, {'neighbor': '10.1.1.3', 'state': 'FULL'}]
+2026-05-18 21:54:48,773 - INFO - OSPF_TEST - Validation Result: True
+2026-05-18 21:54:48,774 - INFO - OSPF_TEST - ===== OSPF TEST PASSED =====
+2026-05-18 21:55:46,640 - INFO - utils.logger - ===== STARTING OSPF TEST
+2026-05-18 21:55:46,641 - INFO - utils.logger - Parsing OSPF output
+2026-05-18 21:55:46,642 - INFO - utils.logger - Parsed neighbors: [{'neighbor': '10.1.1.2', 'state': 'FULL'}, {'neighbor': '10.1.1.3', 'state': 'FULL'}]
+2026-05-18 21:55:46,642 - INFO - utils.logger - Validation Result: True
+2026-05-18 21:55:46,642 - INFO - utils.logger - ===== OSPF TEST PASSED =====
